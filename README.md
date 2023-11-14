@@ -11,6 +11,8 @@
 <p align="left">
 <a href="https://twitter.com/pranavgaik55513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavgaik55513" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pranav-gaikwad-432197250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Panav Gaikwad" height="30" width="40" /></a>
+<a href="https://instagram.com/pranav__003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav__003" height="30" width="40" /></a>
+</p>
 </p>
 </p>
 
