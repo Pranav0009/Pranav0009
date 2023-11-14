@@ -1,4 +1,3 @@
-<span style="color:blue">Hi 👋, I'm Pranav Gaikwad</span>
 <h1 style="background-color:yellow", align="center">Hi 👋, I'm Pranav Gaikwad</h1>
 <h3 align="center">A passionate enginner from India</h3>
 
