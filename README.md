@@ -1,4 +1,4 @@
-<h1 style="color:DodgerBlue;", align="center">Hi 👋, I'm Pranav Gaikwad</h1>
+<h1 style="background-color:yellow", align="center">Hi 👋, I'm Pranav Gaikwad</h1>
 <h3 align="center">A passionate enginner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav0009&label=Profile%20views&color=0e75b6&style=flat" alt="pranav0009" /> </p>
