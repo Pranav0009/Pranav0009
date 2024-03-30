@@ -1,5 +1,5 @@
 
-![Uploading 213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif…]()
+![SS](https://github.com/Pranav0009/Quiz-Application/assets/93175823/c68c7c99-972f-4d18-bc16-5aaa514bf9f9)
 
 
 <h1 style="background-color:yellow", align="center">Hi 👋, I'm Pranav Gaikwad</h1>
