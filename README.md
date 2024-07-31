@@ -51,6 +51,6 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="VS Studio" width="40" height="40"/> </a>
 <a href="https://jupyter.org/install" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=J0SgMWzAxqFj&format=png" alt="VS Studio" width="40" height="40"/> </a>
 
-<a href="https://tryhackme.com/p/pranav003" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/pranav003.png" alt="TryHackMe" alt="thm badge" width="40" height="40"/> </a> 
+<a href="https://tryhackme.com/p/pranav003" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/pranav003.png" alt="TryHackMe" alt="thm badge" /> </a> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav0009&show_icons=true&locale=en&layout=compact" alt="pranav0009" /></p>
