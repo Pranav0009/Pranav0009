@@ -54,7 +54,7 @@
 <h3 align="left">Try Hack Me Profile</h3>
 <a href="https://tryhackme.com/p/pranav003" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/pranav003.png" alt="TryHackMe" alt="thm badge" /> </a> 
 
-[![TryHackMe Badge](https://https://tryhackme.com/badge/2051044)](https://tryhackme.com/p/pranav003)
+[![TryHackMe Badge](https://tryhackme.com/badge/2051044)](https://tryhackme.com/p/pranav003)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav0009&show_icons=true&locale=en&layout=compact" alt="pranav0009" /></p>
