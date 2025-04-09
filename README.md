@@ -33,7 +33,7 @@
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/1VTwtFqpRQZdPipE9eYUeIpwCGlEz16Vm01mnt8oee0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZEhuU0ZjWUtq/L3cvNDAwL2gvNDAw/L3RoZW1lL2Rhcmsv/aWNvbi5wbmc_Yz0x/YnhpZDY0TXVwN2Fj/emV3U0FZTVgmdD0x/NzQwNjUzMjAxODYx" alt="nmap" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="VS Studio" width="40" height="40"/> </a>
 <a href="https://jupyter.org/install" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=J0SgMWzAxqFj&format=png" alt="VS Studio" width="40" height="40"/> </a>
-<a href="https://www.metasploit.com/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" alt="metasploit" height="40" width="40" /></a>
+<a href="https://www.metasploit.com/" target="blank"><img src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" alt="metasploit" height="40" width="40" /></a>
 
 <h3 align="left">Try Hack Me Profile</h3>
 <a href="https://tryhackme.com/p/pranav003" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/pranav003.png" alt="TryHackMe" alt="thm badge" /> </a> 
